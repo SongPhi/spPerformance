@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>spPerformance</name>
+  <key>spperformance</key>
+  <description>spPerformance</description>
+    <author>Thao Le</author>
+    <authorEmail>thaolt@songphi.com</authorEmail>
+  <authorUrl>http://oxwall.songphi.com</authorUrl>
+  <developerKey>f3cf04f4be78d22162470c28a80dbd93</developerKey>
+    <build>10000</build>
+    <copyright>(C) 2013 SongPhi LLC. All rights reserved.</copyright>
+  <license>The BSD License</license>
+    <licenseUrl>https://raw.github.com/ycicom/spPerformance/master/LICENSE</licenseUrl>
+</plugin>
